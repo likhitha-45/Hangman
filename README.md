@@ -1,4 +1,4 @@
-# Hangman
+# Hangman Game
 **TEAM MEMBERS:**<br>
 1.Pithani.Likhitha Devi - 19PA1A05D9<br>
 2.Sandhireddy.Lakshmi Manasa - 19PA1A05G3<br>
