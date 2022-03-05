@@ -1,8 +1,8 @@
 # Hangman Game
 **TEAM MEMBERS:**<br>
 1.Pithani.Likhitha Devi - 19PA1A05D9<br>
-2.Sandhireddy.Lakshmi Manasa - 19PA1A05G3<br>
-3.Ponduru.Rajitha - 19PA1A05E4<br>
+2.Ponduru.Rajitha - 19PA1A05E4<br>
+3.Sandhireddy.Lakshmi Manasa - 19PA1A05G3<br>
 **OBJECTIVE OF OUR CHATBOT:**<br>
 The main objective of this chatbot is to build a program which helps to play hangman game..<br>
 **WHAT DOES OUR CHATBOT DO:**<br>
